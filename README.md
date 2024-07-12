@@ -11,6 +11,7 @@ Core Tech Stack:
 - JVM languages: Java, Kotlin, Scala (AKKA and Actor Model), Spring, SpringBoot
 - Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
 - Ruby, Ruby on Rails
+- Recently experimenting with WebAssembly!
 
 Recent Explorations:
 - Prometheus, Grafana, PromQL
