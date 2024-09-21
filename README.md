@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Senior Backend Engineer with a diverse background spanning from Philosophy to Ontology Engineering in Academia. My professional journey includes experience in Application Support and Software Development across various industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive.
+My name is Ilaria Corda and I am a Senior Backend Engineer with a diverse background spanning from Philosophy to Ontology Engineering in Academia. My professional journey includes experience in Application Support and Software Development across various industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive.
 
 🌍 With 10 years of experience (in the UK, Germany, and currently in Italy), I have a solid track record of working effectively with international, cross-functional, and geographically distributed teams.
 
