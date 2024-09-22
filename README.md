@@ -22,7 +22,7 @@ Recent Explorations:
 
 ## Approach to Work 🚀
 
-I like to make "things happen" and rarely capitulate. Before tackling any dev work, I need to have a 360 degrees view (aka Big Picture) and I really like to be part of the requirement gathering phase as well as the planning one.
+I like to make "things happen" and rarely capitulate. Before tackling any dev work, I need to have a 360 degrees view (aka Big Picture) and I really like to be part of the requirement gathering phase as well as the planning one. Get in touch if you have an interesting project and you feel I can be of help!
 
 ## About Me 🌟
 
