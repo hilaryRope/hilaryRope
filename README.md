@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-My name is Ilaria Corda and I am a Senior Backend Engineer with a diverse background spanning from Philosophy to Ontology Engineering in Academia. My professional journey includes experience in Application Support and Software Development across various industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive.
+My name is Ilaria Corda, and I am an AI Engineer | Senior Backend Engineer with a rich and diverse background. My journey spans from Philosophy and Ontology Engineering in Academia to cutting-edge AI Engineering and Generative AI applications. With a decade of experience, I have excelled in R&D, Application Support, Software Development, and, most recently, in AI-powered solutions across industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive, and IoT.
 
-🌍 With 10 years of experience (in the UK, Germany, and currently in Italy), I have a solid track record of working effectively with international, cross-functional, and geographically distributed teams.
+🌍 With over 10 years of experience (in the UK, Germany, and currently in Italy), I have a solid track record of working effectively with international, cross-functional, and geographically distributed teams.
 
 ## Tech Stack 👩‍💻
 
@@ -12,6 +12,7 @@ Core Tech Stack:
 - Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
 - Ruby, Ruby on Rails
 - Recently experimenting with WebAssembly!
+- Generative AI (GenAI): Expertise in LLMs, fine-tuning, prompt engineering, embeddings & RAG, and API integrations
 
 Recent Explorations:
 - Prometheus, Grafana, PromQL
