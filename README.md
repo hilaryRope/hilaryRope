@@ -12,12 +12,11 @@ Core Tech Stack:
 - Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
 - Ruby, Ruby on Rails
 - Recently experimenting with WebAssembly!
-- Generative AI (GenAI): Expertise in LLMs, fine-tuning, prompt engineering, embeddings & RAG, and API integrations
+- Generative AI (GenAI): Expertise in LLMs, fine-tuning, prompt engineering, embeddings & RAG, and API integrations. More recently agentic AI and multi-agents. 
 
 Recent Explorations:
 - Prometheus, Grafana, PromQL
-- RabbitMQ, Kafka
-- AWS, Kubernetes, Docker, Terraform
+- Kubernetes, Terraform, GKE
 
 📚 As a lifelong learner, I am a passionate Backend Engineer keen on constantly keeping up-to-date with new technologies and market trends.
 
