@@ -1,8 +1,10 @@
 # Hi there! 👋
 
-My name is Ilaria Corda, and I am an AI Engineer | Senior Backend Engineer with a rich and diverse background. My journey spans from Philosophy and Ontology Engineering in Academia to cutting-edge AI Engineering and Generative AI applications. With a decade of experience, I have excelled in R&D, Application Support, Software Development, and, most recently, in AI-powered solutions across industries such as Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive, and IoT.
+I am an AI Engineer and Senior Backend Engineer with over 10 years of experience spanning both Academia and industry. My background ranges from Philosophy and Ontology Engineering to large-scale backend systems and production-grade Generative AI solutions.
 
-🌍 With over 10 years of experience (in the UK, Germany, and currently in Italy), I have a solid track record of working effectively with international, cross-functional, and geographically distributed teams.
+I have designed and delivered robust systems across multiple domains, including Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive, and IoT. My work consistently bridges strong theoretical foundations with pragmatic engineering, enabling effective translation from research and architecture into real-world impact.
+
+I have worked extensively in international environments across the UK, Germany, and Italy, collaborating with cross-functional and geographically distributed teams.
 
 ## Tech Stack 👩‍💻
 
@@ -11,32 +13,45 @@ Core Tech Stack:
 - JVM languages: Java, Kotlin, Scala (AKKA and Actor Model), Spring, SpringBoot
 - Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
 - Ruby, Ruby on Rails
-- Recently experimenting with WebAssembly!
-- Generative AI (GenAI): Expertise in LLMs, fine-tuning, prompt engineering, embeddings & RAG, and API integrations. More recently agentic AI and multi-agents. 
+  
+AI & Generative AI
 
-Recent Explorations:
-- Prometheus, Grafana, PromQL
+- Fine-tuning and prompt engineering
+- Embeddings and Retrieval-Augmented Generation (RAG)
+- Agentic AI and multi-agent systems
+- LLM and AI API integrations in production systems
+
+Platform, Infra & Observability
+
 - Kubernetes, Terraform, GKE
+- Prometheus, Grafana, PromQL
+- Currently experimenting with WebAssembly
 
-📚 As a lifelong learner, I am a passionate Backend Engineer keen on constantly keeping up-to-date with new technologies and market trends.
 
-## Approach to Work 🚀
+🚀 Engineering Approach
 
-I like to make "things happen" and rarely capitulate. Before tackling any dev work, I need to have a 360 degrees view (aka Big Picture) and I really like to be part of the requirement gathering phase as well as the planning one. Get in touch if you have an interesting project and you feel I can be of help!
+I am a proactive engineer who values end-to-end ownership. Before writing code, I aim to develop a 360° view of the problem space, and I strongly enjoy being involved early in:
 
-## About Me 🌟
+- Requirements definition
+- System and architecture design
+- Planning and technical decision-making
 
-In my free time, you'll find me:
+My focus is on building solutions that are scalable, maintainable, and aligned with real business needs.
+
+## Beyond Work 🌟
+
+Outside of engineering, you will likely find me:
 - Reading
 - Listening to music (I have a soft spot for Opera and Classical Music)
 - Running/fitness in general
-- Avid gamer
+- Gaming (RPG, e.g. Divinity, Baldur's Gate, Outward, etc)
 - Sci-fi aficionado
 
-## Connect with Me 📫
+## Connect 📫
 
 - [Linkedin](https://www.linkedin.com/in/ilariacorda/)
 - [Personal Blog](https://semanticreatures.com/)
 - [Academia.edu](https://ilariacorda.academia.edu/)
 
-Feel free to explore my GitHub repositories and connect with me on other platforms! I am keen to hear about potential collaborations and opportunities. Please note that this is my PERSONAL Github profile and at work I might or might not using another profile altogether. 
+⚠️ Note
+This is my personal GitHub profile. Professional work may be hosted under separate organizational or corporate accounts.
