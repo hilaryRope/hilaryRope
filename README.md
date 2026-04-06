@@ -9,7 +9,7 @@ I have worked extensively in international environments across the UK, Germany, 
 ## Tech Stack 👩‍💻
 
 Core Tech Stack:
-- Golang, Grpc, Protobuf - Golang is my preferred language! I am a bigenner with Rust!
+- Golang, Grpc, Protobuf - Golang is my preferred language! I am a beginner with Rust!
 - JVM languages: Java, Kotlin, Scala (AKKA and Actor Model), Spring, SpringBoot
 - Restful APIs, Microservices, Event-Driven Systems, Domain-Driven Design
 - Ruby, Ruby on Rails
