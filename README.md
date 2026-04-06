@@ -43,6 +43,7 @@ My focus is on building solutions that are scalable, maintainable, and aligned w
 Outside of engineering, you will likely find me:
 - Reading
 - Listening to music (I have a soft spot for Opera and Classical Music)
+- Bonsai, bonsai, bonsai
 - Running/fitness in general
 - Gaming (RPG, e.g. Divinity, Baldur's Gate, Outward, etc)
 - Sci-fi aficionado
