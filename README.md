@@ -1,5 +1,8 @@
 # Hi there! 👋
 
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+
+
 I am an AI Engineer and Senior Backend Engineer with over 10 years of experience spanning both Academia and industry. My background ranges from Philosophy and Ontology Engineering to large-scale backend systems and production-grade Generative AI solutions.
 
 I have designed and delivered robust systems across multiple domains, including Academia, Consultancy, Telecoms, E-commerce, Big Data, Transport, Financial Services & Fintech, Automotive, and IoT. My work consistently bridges strong theoretical foundations with pragmatic engineering, enabling effective translation from research and architecture into real-world impact.
